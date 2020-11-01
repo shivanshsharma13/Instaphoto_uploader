@@ -1,6 +1,6 @@
 # Instagram Photo Uploader
 
-![Instagram uploader](Image.jpg "Instagram")
+![Instagram uploader](image.jpg "Instagram")
 
 This is a simple python program that asks your instagram userID and Password and after that your image and caption. After that, it checks whether image is in ratio 1:1 or not.
 If not, it also changes your image to 1:1 ratio and upload you image in instagram for a real time.
